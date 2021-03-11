@@ -5,11 +5,12 @@ source_metadata:
   title: གསོ་བ་རིག་པའི་ཚིག་མཛོད་གཡུ་ཐོག་དགོངས་རྒྱན།
   author: ''
   volumes:
-    649caec197bf48d9be4f453c527106ee:
+    cf85e46fb1be434ab0f9b6b56de7b208:
       image_group_id: I3CN5007
-      title: ''
+      title: Volume 1 of gso ba rig pa'i tshig mdzod g.yu thog dgongs rgyan/
       volume_number: 1
       total_pages: 800
+      base_file: v001.txt
 ebook_metadata:
   title: གསོ་བ་རིག་པའི་ཚིག་མཛོད་གཡུ་ཐོག་དགོངས་རྒྱན།
   author: ''
